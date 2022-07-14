@@ -1,2 +1,2 @@
-# curso-dio-desafio-github-repositorio01
+# Curso-dio-desafio-github-repositorio
 Desafio de projeto sobre Gti/Github
